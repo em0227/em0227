@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a full-stack engineer with experience in React.js, Java ☕, Node.js (JavaScript/TypeScript), and I have built side projects using Ruby on Rails and Python 🐍. I am an AWS Certified Associate Developer and am working towards becoming certified as an AWS Solutions Architect as well.
+
+My software engineering career keyword is ✨ _migration_ ✨. I've transitioned from being a publishing professional to a project manager and then to a software engineer. I've helped a fintech company migrate their existing tech stack to a more modern and cost-effective stack, and I am currently working for a car auction company to help them migrate to a better tech stack as well.
+
+I enjoy learning and exploring new tech trends, especially in the data engineering field. I am pursuing an MS degree in Information Systems with a focus on Data at CUNY Baruch to explore the potential career migration to a data engineer 🌱. 
+
 <!--
 **em0227/em0227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
